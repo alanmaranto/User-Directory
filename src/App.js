@@ -5,7 +5,7 @@ import "./App.css";
 
 class App extends Component {
   state = {
-    route: "form",
+    route: "list",
   };
   render() {
     const { route } = this.state;
